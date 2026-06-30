@@ -58,6 +58,5 @@ This dashboard helps transform raw sales data into meaningful insights, enabling
 ##  Author
 **Sowmya P**  
 Aspiring Data Analyst  
-GitHub: [Your GitHub Link]
 
 ---
